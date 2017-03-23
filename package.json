@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "rm -rf packages && mkdir packages && node generate",
-    "postinstall": "npm run generate"
+    "preinstall": "npm run generate"
   },
   "repository": {
     "type": "git",
