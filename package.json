@@ -9,11 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/bpium/bpium-api-deprecated-packages.git"
+    "url": "git+https://github.com:Bpium/api-deprecated-packages.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/bpium/bpium-api-deprecated-packages#readme",
   "dependencies": {
     "bluebird": "^2.9.34",
     "bookshelf": "^0.9.5",
